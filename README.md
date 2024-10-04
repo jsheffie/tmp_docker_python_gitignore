@@ -1,0 +1,1 @@
+# tmp_docker_python_gitignore
